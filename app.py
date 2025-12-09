@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-API_KEY = "YOUR_API_KEY"  # ⚠️ Подставь ключ OpenWeatherMap
+API_KEY = "YOUR_API_KEY" 
 CITY = "Tashkent"
 
 
